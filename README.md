@@ -43,6 +43,8 @@ The following **additional** features are implemented:
 ## Notes
 
 Describe any challenges encountered while building the app.
+The challenges I faced when making this app was fixing the way the questions were formatted, as some of them would provide a JSON that was not
+translated properly. I also had trouble making the questions stay in place, it seemed as if it would move with the timer as it went down.
 
 ## License
 
